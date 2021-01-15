@@ -1,0 +1,13 @@
+{
+    "BUCKET": "",
+    "ACCESS_KEY": "",
+    "SECRET_KEY": "",
+    "APIKEY": "",
+    "keyPrefix": "",
+    "region": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": ""
+}
